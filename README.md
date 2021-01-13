@@ -1,6 +1,6 @@
 # LPC2129 FIQ EXAMPLE
 
-This project is an example for enabling FIQ with IQR(vectored).<br>
+This project is an example for enabling FIQ with IRQ(vectored).<br>
 Built and tested on target LPC2129 development board.<br>
 
 This example demonstrates the context switching from main to ISR of Fast Interrupt Request and Vectored Interrupt.<br>
